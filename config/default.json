@@ -1,0 +1,4 @@
+{
+  "port": 5000,
+  "mongoURL": "mongodb+srv://Murat:Lekskeistha199605@cluster0-hbghd.mongodb.net/app"
+}
