@@ -1,4 +1,4 @@
-import authRoute from './auth.js';
+const authRoute = require('./auth.js');
 
 module.exports = {
   authRoute

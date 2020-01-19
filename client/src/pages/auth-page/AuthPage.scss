@@ -1,0 +1,33 @@
+body {
+  background: #eee;
+}
+
+.btn {
+  
+  &--sign {
+    margin-right: 10px;
+  }
+}
+
+.form {
+  margin-top: 30px;
+}
+
+input.yellow-input {
+  border-bottom: 1px solid #fff !important;
+  border-bottom: 0 1px 0 0 #fff !important;
+  color: #fff;
+}
+
+input.yellow-input + label {
+  color: #fff !important;
+}
+
+input.yellow-input:focus {
+  border-bottom: 1px solid #ffeb3b !important;
+  border-bottom: 0 1px 0 0 #ffeb3b !important;
+}
+
+input.yellow-input:focus + label {
+  color: #ffeb3b !important;
+}
